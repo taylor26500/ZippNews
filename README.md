@@ -2,7 +2,7 @@
 GOGO_News is a Python application designed to scrape, summarize, and display news articles. This project utilizes web scraping techniques to gather news data and leverages the Cohere API to generate concise summaries of each article.
 
 ## Features
-- **News Scraping**: Fetches the latest news from the BBC News website.
+- **News Scraping**: Fetches the latest news.
 - **News Summarization**: Summarizes the news articles using a pre-trained model from Cohere, focusing on key content while preserving the original headlines.
 
 ## Project Structure
@@ -22,7 +22,7 @@ To run the GOGO_News application, execute the following command from the root di
 python main.py
 ```
 
-This will scrape the news from BBC, summarize it, and print the summaries to the console.
+This will scrape the news, summarize it, and print the summaries to the console.
 
 ## Dependencies
 - Python 3.8+
