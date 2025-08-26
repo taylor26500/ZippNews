@@ -36,6 +36,3 @@ To set up the project environment:
    ```bash
    pip install -r requirements.txt
    ```
-
-## License
-This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. For more details, see the [LICENSE.md](LICENSE.md) file.
